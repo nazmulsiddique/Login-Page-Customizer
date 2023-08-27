@@ -1,0 +1,64 @@
+.lpcwp-main-area{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    width: 90%;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.lpcwp-common{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 20px;
+}
+.lpcwp-body-area{
+flex-basis: 70%;
+}
+.lpcwp-sidebar-area{
+    flex-basis: 25%;
+}
+.lpcwp-main-area #title h2{
+    display: block;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 10px;
+    border-left: 5px solid #8800e2;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.lpcwp-main-area label{
+    display: block;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+.lpcwp-main-area input{
+    display: block;
+    font-size: 14px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    width: 90%;
+    box-shadow: 0 0 7px #ccc;
+    padding: 15px;
+}
+.lpcwp-main-area input[type="color"]{
+    padding: 5px;
+    cursor: pointer;
+    width: 100px;
+    height: 70px;
+}
+.lpcwp-main-area input[type="submit"]{
+    background-color: #8800e2;
+    border: 1px solid #8800e2;
+    color: #fff;
+    padding: 8px 35px;
+    width: auto;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.lpcwp-main-area input[type="submit"]:hover{
+    background-color: #0b0a0c;
+    border: 1px solid #0b0a0c;
+}
