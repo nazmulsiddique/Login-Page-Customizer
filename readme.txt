@@ -1,8 +1,8 @@
-=== Login Page Customizer ===
+=== Login Page Customizer WP ===
 Contributors: Nazmul Siddique
 Author URI: https://www.ghatailit.com/
 Plugin URI: https://wordpress.org/plugins/login-page-customizer-wp/
-Tags: customizer admin login, custom login page, custom wp-login, login customizer, login page customizer.
+Tags: customizer admin login, custom login page, custom wp-login, login customizer, Login Page Customizer WP.
 Requires at least: 5.4
 Tested up to: 6.3
 Stable tag: 1.0.0
@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
-The Login Page Customizer plugin will help you to enable a custom login page to your WordPress website. If you want to customize your basic admin login page then this plugin will be helpful for you.
+The Login Page Customizer WP plugin will help you to enable a custom login page to your WordPress website. If you want to customize your basic admin login page then this plugin will be helpful for you.
 
 
 *   [Need Help?](https://www.ghatailit.com/contact/)		
